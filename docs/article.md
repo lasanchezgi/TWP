@@ -4,7 +4,7 @@ Un análisis empírico de cinco décadas de retórica pre-bélica usando datos d
 
 ---
 
-## El gancho
+## Introducción
 
 El 5 de febrero de 2003, Colin Powell se sentó ante el Consejo de Seguridad de la ONU con un vial de ántrax en la mano, fotos satelitales en la pantalla y grabaciones de audio interceptadas que supuestamente probaban que Iraq poseía armas de destrucción masiva. El mundo lo vio. Los medios lo repitieron durante semanas. La invasión ocurrió 44 días después.
 
